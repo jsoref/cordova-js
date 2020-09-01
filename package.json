@@ -58,7 +58,7 @@
     }
   ],
   "devDependencies": {
-    "connect": "1.8.5",
+    "connect": "3.7.0",
     "grunt": "0.4.1",
     "grunt-contrib-clean": "0.6.0",
     "grunt-contrib-jshint": "0.10.0",
